@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ASWorkspace\\NewProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\ASWorkspace\\NewProject\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\ASWorkspace\\NewProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_adapter.xml",
+        "source": "D:\\ASWorkspace\\NewProject\\app\\src\\main\\res\\menu\\menu_adapter.xml"
+    }
+]
